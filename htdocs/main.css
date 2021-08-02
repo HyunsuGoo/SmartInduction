@@ -1,0 +1,19 @@
+*{
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+body{
+    background-color:silver; /* 원하는 배경색 */
+}
+.date{
+    font-size: 60px;/* 원하는 폰트 사이즈 */
+    color:aqua;/* 날짜가 표기되는 텍스트 색상 */
+}
+.time{
+    font-size: 60px; /* 원하는 폰트 사이즈 */
+    font-weight: bold;
+    color:red;/* 시간이 표기되는 텍스트 색상 */
+}
+
+
